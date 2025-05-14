@@ -119,8 +119,14 @@
         <mxCell id="DBpjMMwf0mZPx1vJLvTN-33" value="没有APP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="789" y="355" width="76" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DBpjMMwf0mZPx1vJLvTN-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DBpjMMwf0mZPx1vJLvTN-34" target="DBpjMMwf0mZPx1vJLvTN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DBpjMMwf0mZPx1vJLvTN-34" value="用户收到阅信短信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBpjMMwf0mZPx1vJLvTN-35" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="800" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
